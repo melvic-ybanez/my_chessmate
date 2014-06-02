@@ -10,3 +10,5 @@ The user can play against the computer player only (no human vs human feature). 
 Warning: The computer player at level 5 responses very slowly.
 
 This was written a few years ago for educational purposes (i.e to test the author's understanding of the minimax search algorithm with alpha-beta pruning). Back then the author had little knowledge about Java and it's best practices and algorithms in general, so the code isn't that nice and easy to follow and the packages weren't organized well. Also, the final version can no longer be found.
+
+You can see it in action here: https://www.youtube.com/watch?v=I7EGol5DAOE
